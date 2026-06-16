@@ -1,2 +1,2 @@
 The powershell thing is from here: 
-[fastfetch](https://github.com/AziGoss/Dotfiles/fastfetch)
+[fastfetch(https://github.com/AziGoss/Dotfiles/fastfetch)]
