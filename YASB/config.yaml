@@ -55,7 +55,7 @@ widgets:
       api_key: "3bf4cf9a7c3f40d6b31174128242807"
       update_interval: 600
       hide_decimal: true
-      location: "Germany, offenburg"
+      location: "Usa"
       callbacks:
         on_left: "toggle_label"
       icons:
