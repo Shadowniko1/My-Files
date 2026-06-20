@@ -1,6 +1,7 @@
 # Fastfetch
 ## to remove the x - □ and other things, scroll down for a tutorial
-## The powershell thing is from here: [fastfetch](https://github.com/AziGoss/Dotfiles/fastfetch)
+## The Fastfetch config is from here: [fastfetch-Config](https://github.com/AziGoss/Dotfiles/fastfetch)
+## But if u want my config then just download [my-config](https://github.com/Shadowniko1/My-Files/blob/main/Fastfetch/config.jsonc)
 <img width="1331" height="690" alt="image" src="https://github.com/user-attachments/assets/67344bed-d0e2-49bb-b672-8939e9ccd915" />
 
 1. go to settings> startup
