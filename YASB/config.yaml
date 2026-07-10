@@ -31,7 +31,7 @@ bars:
       bottom: 0
       right: 6
     widgets:
-      left: ["power_menu", "app_button", "apps", "komorebi_workspaces"]
+      left: ["power_menu", "komorebi_workspaces"]
       center: ["clock"]
       right: ["cava", "traffic", "weather"]
 widgets:
@@ -55,7 +55,7 @@ widgets:
       api_key: "3bf4cf9a7c3f40d6b31174128242807"
       update_interval: 600
       hide_decimal: true
-      location: "Usa"
+      location: "(your, location)"
       callbacks:
         on_left: "toggle_label"
       icons:
@@ -98,18 +98,6 @@ widgets:
     type: "yasb.applications.ApplicationsWidget"
     options:
       label: "{data}"
-      app_list:
-        - { icon: "File", launch: "explorer" }
-        - { icon: "Code", launch: "code" }
-        - { icon: "Notepad", launch: "notepad" }
-  app_button:
-    type: "yasb.custom.CustomWidget"
-    options:
-      label: "<span>\uf40e</span>"
-      label_alt: "<span>\uf40e</span>"
-      class_name: "app-button"
-      callbacks:
-        on_left: "exec start_menu"
   clock:
     type: "yasb.clock.ClockWidget"
     options:
